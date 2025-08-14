@@ -1,16 +1,41 @@
-# What is this?
+# British Plates (Forked Version)
 
-The British Plate script is a free release provided by Hybrid Studios that will convert all AI vehicle plates from an American format to a British one. The resource is easily customisable to modify the letters, numbers and area codes available to AI.
+This is a **forked version** of the original British Plate script by Hybrid Studios.  
+It converts all AI vehicle plates from the default American format to realistic UK-style plates. The resource is fully **customizable**, allowing you to modify letters, numbers, and area codes for AI vehicles.
 
-Feel free to [join our Discord](https://discord.gg/GXGkZagWQN) so you don't miss out on any future releases!
+> Original project: [Hybrid Studios - British Plates](https://github.com/Owen-M/BritishPlates)
 
-# Installation
+Feel free to [Join Crip Developments](https://discord.gg/ZDCGZCguBW) to stay updated on future releases and improvements!
 
-1. Download the Script from the [GitHub](https://github.com/Owen-M/BritishPlates)
-2. Create a new folder for the resource in your server's files.
-3. Place the contents of the GitHub into the folder you just created.
-4. Customise away!
+---
 
-# Feedback
+## Features
 
-We aim to provide the best possible quality in the resources that we release and appreciate any feedback given by members of the community to assist us in developing our resource further. 
+- Converts AI & Player vehicle plates to British-style formats.
+- Realistic DVLA year codes based on real-world months.
+- Fully customizable letters, prefixes, and area codes.
+- Randomized plate generation for added realism.
+
+---
+
+## Installation
+
+1. Download this forked Script from GitHub.
+2. Create a new folder in your server's `resources` directory.
+3. Place the contents of the repository into this folder.
+4. Start the resource in your server configuration file (`server.cfg`) with:
+5. Customize the letters, prefixes, or year codes as desired in `client.lua`.
+
+---
+
+## Feedback
+
+We aim to provide **high-quality, realistic resources** for GTA V servers.  
+Feedback and suggestions from the community are always welcome to help improve this resource further.
+
+---
+
+## License / Credits
+
+- Original script by **Hybrid Studios**
+- Fork and modifications by **Code Master & Crip Developments**
